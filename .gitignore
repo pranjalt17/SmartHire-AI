@@ -1,0 +1,38 @@
+# Frontend - Node modules
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backend - Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.Python
+
+# Environment variables (API keys)
+.env
+.env.local
+.env.*.local
+
+# Uploaded files and generated PDFs
+uploads/
+*.pdf
+*.docx
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
