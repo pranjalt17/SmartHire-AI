@@ -95,7 +95,8 @@ SerpAPI for job search integration
 
 Department of CSE, Manipal University Jaipur
 
-
+# 📄 License
+This project is for academic purposes as part of the Major Project requirement.
 
 
 
